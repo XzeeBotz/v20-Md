@@ -40,18 +40,18 @@ bearkey = 'https://pastelink.net/v20Md'
 ApiiKey = 'https://pastelink.net/v20Md'
 vinkey = 'vinko'
 
-namabot = 'DipaLand Counter'
-namalu = 'XzeeOFC'
-footer = '\n© XzeeOFC'
+namabot = 'BOT OFFICIAL WA'
+namalu = 'BOT OFC'
+footer = '\n© BOT OFC'
 kasihcaption = `Nih Sayang`
 
 // Sticker WM
 global.stiker_wait = '_*Tunggu Sebentar...*_'
 global.packname = 'DipaLand Multi device'
-global.author = 'XzeeOFC'
-global.email = 'dipalanddd@gmail.com'
+global.author = 'BOT OFFICIAL'
+global.email = 'botwaofficial@botku.com'
 global.fla = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=runner-logo&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&text='
-global.wm = '©DipaLand Counter Bot-Md'
+global.wm = '©BOT OFFICIAL Bot-Md'
 global.media = 'https://telegra.ph/file/5d45a3d1e12726d98c5e4.jpg'
 
 global.wait = '_*Tunggu Sebentar Sedang Di Proses...*_'
